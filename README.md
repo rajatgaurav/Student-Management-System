@@ -12,11 +12,15 @@ Software Requirement to run this project
 JDK 1.8.0
 MySQL 8.0
 Eclipse Neon
+
+
 Tools and Technologies to be used in this project
 
 JDK 1.8.0
 MySQL 8.0
 Eclipse Neon
+
+
 How To Import And Run The Project?
 
 1. Download and Unzip file on your local system.
@@ -28,6 +32,7 @@ How To Import And Run The Project?
 4. Right click on project and click as Run as-->Run as java application.
 
 5. My all project mysql database connection credential is Username - "root" & Password - "root"
+
 
 How To Import Database?
 
